@@ -22,7 +22,8 @@ Possui conhecimentos em
 <hr>
 
 <h5>Eii, psiu! Da uma olhadinha no meu portifólio 😇<h5>
-<a href="https://www.behance.net/gabrielcoutinho9" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> -=-=- Site pessoal em breve -=-=-
+<a href="https://www.behance.net/gabrielcoutinho9" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+<a href="https://gabrielcoutz.github.io/" target="_blank">Site pessoal =D</a>
 
 <hr>
 
