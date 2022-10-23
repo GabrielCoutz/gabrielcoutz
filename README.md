@@ -13,7 +13,7 @@ Possuo conhecimentos em
 <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
-🔥 No momento, estou estudando a linguagem Javascript, e explorando maneiras de como utilizá-la sempre da forma mais eficiente, prática e criativa possível.
+🔥 No momento, estou estudando React, e explorando maneiras de como utilizá-lo sempre da forma mais eficiente, prática e criativa possível.
 
 <hr>
 <h2>Contato</h2>
