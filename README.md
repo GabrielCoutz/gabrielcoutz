@@ -13,8 +13,9 @@ Possuo conhecimentos em
 <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="REDUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 <img align="center" alt="FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img align="center" alt="WORDPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 
-🔥 No momento, estou estudando Redux.
+🔥 No momento, estou estudando Wordpress como CMS.
 
 <hr>
 <h2>Contato</h2>
