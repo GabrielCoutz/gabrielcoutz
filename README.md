@@ -15,8 +15,9 @@ Possuo conhecimentos em
 <img align="center" alt="FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center" alt="WORDPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 <img align="center" alt="NETXJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
-🔥 No momento, estou estudando Next JS.
+🔥 No momento, estou estudando Next JS & TypeScript.
 
 <hr>
 <h2>Contato</h2>
