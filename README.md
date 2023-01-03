@@ -1,5 +1,5 @@
 # Olá dev, vai um cafézin aí? ☕️
-Sou Gabriel Coutinho 😁, estou realizando um curso de nível técnico em informática,além de outros complementares na área de Front-end e UI/UX.
+Sou Gabriel Coutinho 😁, sou técnico em informática e desenvolvedor, possuo diversos conhecimentos na área de Front-end e UI/UX.
 
 📚 Me interesso demais pelo Front-end, pois não somente me permite aplicar meus conhecimentos construindo projetos com funcionalidades simples e úteis, mas também, explorar o UI/UX, transformando tudo não apenas em códigos, mas interfaces funcionais e agradáveis.
 
