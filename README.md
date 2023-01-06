@@ -3,6 +3,9 @@ Sou Gabriel Coutinho 😁, sou técnico em informática e desenvolvedor, possuo 
 
 📚 Me interesso demais pelo Front-end, pois não somente me permite aplicar meus conhecimentos construindo projetos com funcionalidades simples e úteis, mas também, explorar o UI/UX, transformando tudo não apenas em códigos, mas interfaces funcionais e agradáveis.
 
+
+<h3><a href="https://portfolio-gabrielcoutz.vercel.app/">👉 Dê uma olhada no meu portfólio</a></h3>
+
 ## 💻 Tudo que aprendi (até agora...)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
