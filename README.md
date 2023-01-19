@@ -1,6 +1,9 @@
 # Olá dev, vai um cafézin aí? ☕️
 Sou Gabriel Coutinho 😁, técnico em informática e desenvolvedor, possuo diversos conhecimentos na área de Front-end e UI/UX.
 
+Apaixonado por javascript diga-se de passagem XD
+
+
 📚 Amo estudar tudo do Front-end, pois não somente me permite aplicar meus conhecimentos construindo projetos com funcionalidades simples e úteis, mas também, explorar o UI/UX, transformando tudo não apenas em códigos, mas interfaces funcionais e agradáveis.
 
 
