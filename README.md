@@ -6,9 +6,6 @@ Apaixonado por javascript diga-se de passagem XD
 
 📚 Amo estudar tudo do Front-end, pois não somente me permite aplicar meus conhecimentos construindo projetos com funcionalidades simples e úteis, mas também, explorar o UI/UX, transformando tudo não apenas em códigos, mas interfaces funcionais e agradáveis.
 
-
-<h3><a href="https://portfolio-gabrielcoutz.vercel.app/">👉 Dê uma olhada no meu portfólio</a></h3>
-
 ## 💻 Tudo que aprendi (até agora...)
 
 <h3>Linguagens</h3>
