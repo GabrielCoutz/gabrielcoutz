@@ -1,5 +1,5 @@
 # Olá dev, vai um cafézin aí? ☕️
-Sou Gabriel Coutinho 😁, técnico em informática e desenvolvedor, possuo diversos conhecimentos na área de Front-end e UI/UX.
+Sou Gabriel Coutinho 😁, técnico em informática e estou fazendo uma graduação em desenvolvimento web, possuo diversos conhecimentos na área de Front-end e UI/UX.
 
 Apaixonado por javascript diga-se de passagem XD
 
