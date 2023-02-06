@@ -1,4 +1,11 @@
-# Olá dev, vai um cafézin aí? ☕️
+<div align='center'>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=32&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=590&lines=Ol%C3%A1+dev%2C+vai+um+caf%C3%A9zin+a%C3%AD%3F+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
+  
+</div>
+
+<hr>
+
 Sou Gabriel Coutinho 😁, técnico em informática e estou fazendo uma graduação em desenvolvimento web, possuo diversos conhecimentos na área de Front-end e UI/UX.
 
 Apaixonado por javascript diga-se de passagem XD
