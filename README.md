@@ -8,7 +8,7 @@
 
 <hr>
 
-Sou Gabriel Coutinho 😁, técnico em informática e estou fazendo uma graduação em desenvolvimento web, possuo diversos conhecimentos na área de Front-end e UI/UX.
+Sou Gabriel Coutinho 😁, técnico em informática e entusiasta do mundo Front-end, área na qual possuo diversos conhecimentos, além de UI/UX.
 
 Apaixonado por javascript diga-se de passagem XD
 
