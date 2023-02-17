@@ -64,4 +64,9 @@ Apaixonado por javascript diga-se de passagem XD
 
 </div>
 
+<p align="center"> 
+  Visitantes<br>
+  <img src="https://profile-counter.glitch.me/gabrielcoutz/count.svg" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
