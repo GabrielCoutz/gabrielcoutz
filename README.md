@@ -8,12 +8,15 @@
 
 <hr>
 
-Sou Gabriel Coutinho 😁, técnico em informática e entusiasta do mundo Front-end, área na qual possuo diversos conhecimentos, além de UI/UX.
+Olá, meu nome é Gabriel Coutinho, estudante de Desenvolvimento Web e apaixonado pelo mundo do desenvolvimento Frontend.
 
-Apaixonado por javascript diga-se de passagem XD
+Desde que comecei a estudar programação, me fascino com o UI/UX, campos nos quais gosto de aprender, quase um hobby, que faço com o fim de aprimorar minhas habilidades como desenvolvedor frontend.
 
+Apesar de ainda não ter experiência profissional, me dedico muito em aprender tudo relacionado ao Frontend, estudando constantemente as melhores práticas, usabilidade, performance e tecnologias. Sempre aplico esse conhecimento em projetos pessoais para praticar minhas habilidades e continuar evoluindo.
 
-📚 Amo estudar tudo do Front-end, pois não somente me permite aplicar meus conhecimentos construindo projetos com funcionalidades simples e úteis, mas também, explorar o UI/UX, transformando tudo não apenas em códigos, mas interfaces funcionais e agradáveis.
+Meu foco atual é criar aplicações intuitivas com Angular e React, assim como dominar Typescript e testes unitários. Estou animado para me desenvolver ainda mais nesta área e obter crescimento não só pessoal, mas principalmente profissionalmente, como desenvolvedor Frontend.
+
+Procuro agora minha primeira oportunidade como Desenvolvedor Frontend, para poder aplicar todo conhecimento adquirido e continuar aprimorando minhas hard/soft skills. Se você procura um profissional dedicado, apaixonado e comprometido, tenho o prazer de informar que sua procura acabou! 😉
 
 ## 💻 Tudo que aprendi (até agora...)
 
